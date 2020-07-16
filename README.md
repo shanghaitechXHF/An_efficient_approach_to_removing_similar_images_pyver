@@ -1,1 +1,1 @@
-# An Efficient Approach to Removing Similar_images (Python Version)
+# An Efficient Approach to Removing Similar Images (Python Version)
